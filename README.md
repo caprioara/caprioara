@@ -1,4 +1,4 @@
-### Hi there, I'm [caprioara][website] 👋
+### Hi there, I'm [Neata Dragos][website] 👋
 
 <!-- [![Website](https://img.shields.io/website?label=stroe-adrian.ro&style=for-the-badge&url=https%3A%2F%2Fstroe-adrian.ro)](https://stroe-adrian.ro) -->
 
@@ -57,6 +57,6 @@
 
 
 
-[website]: https://stroe-adrian.ro
-[instagram]: https://www.instagram.com/stroeadrianf/
-[linkedin]: https://www.linkedin.com/in/stroe-adrian/
+[website]:
+[instagram]: https://www.instagram.com/neatax/
+[linkedin]:
