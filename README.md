@@ -57,6 +57,6 @@
 
 
 
-[website]:
-[instagram]:https://www.instagram.com/neatax/
-[linkedin]:
+<!-- [website]: -->
+[instagram]: https://www.instagram.com/neatax/
+<!-- [linkedin]: -->
