@@ -5,7 +5,7 @@
 
 ## I'm an aspiring backend-end developer
 
-- 🔭 I’m currently working on becoming a better [Django developer][website]!
+- 🔭 I’m currently working on becoming a better Django developer!
 - 🌱 I’m currently learning as much as I can!
 - 👯 I’m looking forward to growing as a developer with each task I have at hand.
 - 🥅 2020-2021 Goal: Finish my bachelor degree. Travel to Japan.
