@@ -1,4 +1,4 @@
-### Hi there, I'm [Neata Dragos][website] 👋
+### Hi there, I'm Neata Dragos 👋
 
 <!-- [![Website](https://img.shields.io/website?label=stroe-adrian.ro&style=for-the-badge&url=https%3A%2F%2Fstroe-adrian.ro)](https://stroe-adrian.ro) -->
 
